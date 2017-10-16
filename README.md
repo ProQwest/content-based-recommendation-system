@@ -1,6 +1,6 @@
 # content based recommendation system
 
-[![Datmo Model](https://datmo.io/shabazp/content-based-recommendation-system/badge.svg)](https://datmo.io/shabazp/content-based-recommendation-system)
+[![Datmo Model](https://datmo.com/shabazp/content-based-recommendation-system/badge.svg)](https://datmo.com/shabazp/content-based-recommendation-system)
 
 In this example, we'll build an implicit feedback recommender using the Movielens 100k dataset (http://grouplens.org/datasets/movielens/100k/).
 The code behind this example is available as a Jupyter notebook
